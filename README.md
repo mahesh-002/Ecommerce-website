@@ -83,6 +83,11 @@ https://myaccount.google.com/lesssecureapps
 ## Drawbacks/LoopHoles
 - When user edit their profile then he/she must login again because their username/password is updated in db.
 - Popup of product is added to cart is shown when click on Ecommerce logo (soon i will fix it)
+-------------------------
+
+### Video 
+![How To Use](https://youtu.be/6qZvAM6SsF8)
+
 -------
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
