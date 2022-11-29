@@ -86,7 +86,7 @@ https://myaccount.google.com/lesssecureapps
 -------------------------
 
 ### Video 
-![How To Use](https://youtu.be/6qZvAM6SsF8)
+How To use : https://youtu.be/6qZvAM6SsF8
 
 -------
 ## Disclaimer
