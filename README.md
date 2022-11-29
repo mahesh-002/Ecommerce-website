@@ -5,13 +5,13 @@ Ecommerce project || Python Django
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/mahesh-002/Ecommerce-project/blob/main/static/screenshots/adminHomepage.png)
+![dashboard snap](https://github.com/mahesh-002/Ecommerce-website/blob/main/static/screenshots/adminHomepage.png)
 ### Customer Homepage
-![homepage snap](https://github.com/mahesh-002/ecommerce/blob/main/static/screenshots/customerhomepage.png)
+![homepage snap](https://github.com/mahesh-002/Ecommerce-website/blob/main/static/screenshots/customerhomepage.png)
 ### Cart
-![cart snap](https://github.com/mahesh-002/ecommerce/blob/main/static/screenshots/cart.png)
+![cart snap](https://github.com/mahesh-002/Ecommerce-website/blob/main/static/screenshots/cart.png)
 ### Track Orders
-![orders snap](https://github.com/mahesh-002/ecommerce/blob/main/static/screenshots/orderspage.png)
+![orders snap](https://github.com/mahesh-002/Ecommerce-website/blob/main/static/screenshots/orderspage.png)
 ---
 ## FUNCTIONS
 ## Customer
